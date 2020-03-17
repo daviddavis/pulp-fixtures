@@ -1,6 +1,6 @@
 # The base URL of where fixtures are hosted. The default is compatible with
-# `python3 -m http.server`.
-base_url=http://localhost:8000
+# `python3 -m http.server 8421`.
+base_url=http://localhost:8421
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of:"
